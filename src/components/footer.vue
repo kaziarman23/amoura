@@ -38,10 +38,20 @@
 
           <!-- Navigation -->
           <nav class="flex flex-col md:flex-row gap-6 text-sm text-gray-400">
-            <a href="#" class="hover:text-white transition-colors">Home</a>
-            <a href="#" class="hover:text-white transition-colors">Shop</a>
-            <a href="#" class="hover:text-white transition-colors">About</a>
-            <a href="#" class="hover:text-white transition-colors">Contact</a>
+            <router-link to="/" class="hover:text-white transition-colors"
+              >Home</router-link
+            >
+            <router-link
+              to="/collections"
+              class="hover:text-white transition-colors"
+              >Collections</router-link
+            >
+            <router-link to="/about" class="hover:text-white transition-colors"
+              >About</router-link
+            >
+            <router-link to="/login" class="hover:text-white transition-colors"
+              >Login</router-link
+            >
           </nav>
         </div>
       </div>

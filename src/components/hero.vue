@@ -10,7 +10,7 @@
         <h1 class="text-4xl md:text-6xl font-bold mb-4">
           <span class="text-pink-600">Elegance</span> in Every Scent
         </h1>
-        <p class="text-lg md:text-xl mb-6 text-gray-700">
+        <p class="text-lg md:text-xl mb-6">
           Discover luxurious perfumes crafted to define your personality and
           style.
         </p>
