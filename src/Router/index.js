@@ -1,10 +1,10 @@
 import { createRouter, createWebHistory } from "vue-router";
 
-import Home from "../pages/home.vue";
-import Collections from "../pages/collections.vue";
-import About from "../pages/about.vue";
-import Login from "../pages/login.vue";
-import NotFound from "../pages/not-found.vue";
+import Home from "../Pages/Home.vue";
+import Collections from "../Pages/Collections.vue";
+import About from "../Pages/About.vue";
+import Login from "../Pages/Login.vue";
+import NotFound from "../Pages/Not-Found.vue";
 
 const routes = [
   { path: "/", name: "Home", component: Home },

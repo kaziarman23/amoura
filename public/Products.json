@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "title": "Midnight Bloom",
+    "price": 89.99,
+    "description": "A deep, intoxicating floral scent with hints of amber and sandalwood. Perfect for evening wear.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.5
+    }
+  },
+  {
+    "id": 102,
+    "title": "Coastal Breeze",
+    "price": 65.5,
+    "description": "A fresh, aquatic fragrance with notes of sea salt, lemon zest, and white tea. Ideal for daily use.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.2
+    }
+  },
+  {
+    "id": 103,
+    "title": "Spiced Vanilla Dream",
+    "price": 95.0,
+    "description": "Warm and inviting, featuring creamy vanilla, cinnamon, and a touch of patchouli. A comforting winter favorite.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.8
+    }
+  },
+  {
+    "id": 104,
+    "title": "Gardenia Grace",
+    "price": 72.99,
+    "description": "A classic, elegant scent dominated by pure gardenia, tuberose, and green leaves. Timeless femininity.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.0
+    }
+  },
+  {
+    "id": 105,
+    "title": "Sultan's Oud",
+    "price": 125.0,
+    "description": "Rich and powerful oud wood blended with saffron and rose. A luxurious and long-lasting unisex fragrance.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.7
+    }
+  },
+  {
+    "id": 106,
+    "title": "Citrus Sunrise",
+    "price": 59.95,
+    "description": "An energizing blend of mandarin, grapefruit, and bergamot. A vibrant, uplifting scent for the morning.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.3
+    }
+  },
+  {
+    "id": 107,
+    "title": "Leather & Smoke",
+    "price": 84.0,
+    "description": "A rugged, bold fragrance with sharp leather, smoky cedar, and a hint of cardamom. Distinctly masculine.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 3.9
+    }
+  },
+  {
+    "id": 108,
+    "title": "Pink Peony Petals",
+    "price": 68.5,
+    "description": "Light, airy, and youthful with dominant notes of peony, red apple, and jasmine. Perfect for spring.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.1
+    }
+  },
+  {
+    "id": 109,
+    "title": "Forest Rain",
+    "price": 79.9,
+    "description": "An earthy, clean aroma capturing the scent of a forest after a fresh rain, with moss and damp wood.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 110,
+    "title": "Golden Honey Amber",
+    "price": 92.0,
+    "description": "Sweet, deep, and comforting. A blend of warm honey, golden amber, and musk for a cozy feeling.",
+    "image": "https://i.pinimg.com/736x/28/9c/e1/289ce1af9afaf8785a2a6363c3941320.jpg",
+    "rating": {
+      "rate": 4.4
+    }
+  }
+]

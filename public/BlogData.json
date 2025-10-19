@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Auréme No. 1 — The Essence of Timeless Elegance",
+    "excerpt": "Discover the fragrance that started it all — a perfect harmony of jasmine, vanilla, and soft amber that defines sophistication.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Maison Auréme",
+    "date": "October 5, 2025"
+  },
+  {
+    "id": 2,
+    "title": "Velour Oud — A Deep Dive into Sensual Luxury",
+    "excerpt": "An intoxicating blend of oud wood, rose, and warm spice. Learn what makes Velour Oud our most desired scent.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Auréme Parfums",
+    "date": "October 6, 2025"
+  },
+  {
+    "id": 3,
+    "title": "Eclat de Rose — The Modern Floral Masterpiece",
+    "excerpt": "A celebration of femininity. Explore how Eclat de Rose captures the pure elegance of blooming rose petals in the morning sun.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Auréme Parfums",
+    "date": "October 7, 2025"
+  },
+  {
+    "id": 4,
+    "title": "Noir Intense — For the Bold and Mysterious",
+    "excerpt": "Crafted for those who command attention, Noir Intense blends dark woods with seductive musk for a powerful finish.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Maison Auréme",
+    "date": "October 8, 2025"
+  },
+  {
+    "id": 5,
+    "title": "Amber Luxe — A Journey Through Warm Sensations",
+    "excerpt": "Golden amber, vanilla bean, and a whisper of sandalwood — Amber Luxe redefines comfort and confidence.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Auréme Parfums",
+    "date": "October 9, 2025"
+  },
+  {
+    "id": 6,
+    "title": "Citrus Bloom — Awakening the Spirit of Spring",
+    "excerpt": "Lively notes of orange blossom, bergamot, and white musk — the perfect scent for a fresh start.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Auréme Parfums",
+    "date": "October 10, 2025"
+  },
+  {
+    "id": 7,
+    "title": "Golden Hour — The Fragrance of Sunset Romance",
+    "excerpt": "Inspired by the warmth of dusk, Golden Hour blends amber, vanilla, and honey for a tender, lasting glow.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "author": "Auréme Parfums",
+    "date": "October 11, 2025"
+  },
+  {
+    "id": 8,
+    "title": "Ocean Veil — A Perfume for the Free Spirit",
+    "excerpt": "Experience the breeze of the Mediterranean with sea salt, driftwood, and soft jasmine petals.",
+    "image": "https://i.pinimg.com/736x/f0/de/55/f0de55adbd034efabbf315af78329255.jpg",
+    "date": "October 12, 2025"
+  }
+]
