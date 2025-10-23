@@ -19,7 +19,7 @@
     <div class="flex flex-col md:flex-row gap-10 max-w-5xl w-full justify-center px-4">
       <!-- Card 1 -->
       <div
-        class="bg-rose-50 rounded-3xl shadow-lg p-8 flex-1 text-center hover:shadow-2xl transition transform hover:-translate-y-2 duration-300"
+        class="bg-rose-50 rounded-3xl shadow-lg p-8 flex-1 text-center hover:shadow-2xl transition transform hover:-translate-y-2 duration-300 animate-fade-in"
       >
         <h3 class="text-2xl font-bold text-rose-900 mb-3">Our Vision</h3>
         <p class="text-gray-700 text-left leading-relaxed">
@@ -30,7 +30,7 @@
 
       <!-- Card 2 -->
       <div
-        class="bg-rose-50 rounded-3xl shadow-lg p-8 flex-1 text-center hover:shadow-2xl transition transform hover:-translate-y-2 duration-300"
+        class="bg-rose-50 rounded-3xl shadow-lg p-8 flex-1 text-center hover:shadow-2xl transition transform hover:-translate-y-2 duration-300 animate-fade-in"
       >
         <h3 class="text-2xl font-bold text-rose-900 mb-3">Our Commitment</h3>
         <p class="text-gray-700 text-left leading-relaxed">
